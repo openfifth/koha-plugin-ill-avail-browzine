@@ -33,3 +33,7 @@ When creating an ILL request using the FreeForm plugin, once the item metadata i
 
 The BrowZine API will be searched and results displayed.
 The user can then click on the result titles to view them. If they find the item they were requesting then the request should be abandoned by the user. If not, the user can continue with the request as normal.
+
+## Licence
+
+This plugin is licensed under the GNU Affero General Public License v3.0 or later (`AGPL-3.0-or-later`). See [LICENSE](LICENSE).
